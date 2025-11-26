@@ -89,7 +89,7 @@ export function AboutSection() {
             transition={{ duration: 0.6, delay: 0.1 }}
             className="text-white mb-8 text-4xl md:text-6xl lg:text-7xl max-w-4xl"
           >
-            Engenhando o Futuro da{' '}
+            Mudando o Futuro da{' '}
             <span className="text-[#c8102e]">Fórmula 1</span>
           </motion.h2>
 
