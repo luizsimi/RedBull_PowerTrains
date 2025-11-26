@@ -1,6 +1,6 @@
 import { motion, useInView, useScroll, useTransform } from 'motion/react';
 import { useRef, useState } from 'react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from '../../lib/ImageWithFallback';
 import { Zap, Gauge, Thermometer, Cpu } from 'lucide-react';
 import facilityImage from 'figma:asset/43daea929ce4f49fffcfe6bf8263d6a34b78c22b.png';
 import f1Car from 'figma:asset/8e2d95553ade404c0120d724a8c11ff98cc619a8.png';

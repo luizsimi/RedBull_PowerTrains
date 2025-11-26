@@ -1,7 +1,7 @@
 import { motion, useInView } from 'motion/react';
 import { useRef, useState } from 'react';
 import { ArrowRight, Calendar, ExternalLink } from 'lucide-react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from '../../lib/ImageWithFallback';
 
 const newsItems = [
   {

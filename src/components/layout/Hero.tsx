@@ -1,7 +1,6 @@
 import { motion, useScroll, useTransform } from 'motion/react';
 import { ChevronDown, Rotate3D } from 'lucide-react';
 import { useRef, useState } from 'react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
 import heroImage1 from 'figma:asset/78b909075804cc5e3d99ccf374d24588dd18a40f.png';
 
 export function Hero() {
@@ -237,3 +236,4 @@ export function Hero() {
     </div>
   );
 }
+

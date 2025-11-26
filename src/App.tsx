@@ -1,10 +1,5 @@
-import { Hero } from './components/Hero';
-import { Navigation } from './components/Navigation';
-import { AboutSection } from './components/AboutSection';
-import { PowerUnitSection } from './components/PowerUnitSection';
-import { NewsSection } from './components/NewsSection';
-import { CareersSection } from './components/CareersSection';
-import { Footer } from './components/Footer';
+import { Hero, Navigation, Footer } from './components/layout';
+import { AboutSection, PowerUnitSection, NewsSection, CareersSection, PartnersSection } from './components/sections';
 
 export default function App() {
   return (
@@ -15,6 +10,7 @@ export default function App() {
       <PowerUnitSection />
       <NewsSection />
       <CareersSection />
+      <PartnersSection />
       <Footer />
     </div>
   );
