@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🏎️ Red Bull Powertrains
+<img src="public/favicon.png" alt="Red Bull Powertrains Logo" width="120" />
+
+# Red Bull Powertrains
 
 ### *Excelência em Engenharia de Unidades de Potência da Fórmula 1*
 
@@ -12,28 +14,28 @@
 <br />
 <br />
 
-[🎨 **Ver Protótipo no Figma**](https://www.figma.com/design/7pZiyA4iuIkiiJeCXoKzMi/Redesign-RedBull?node-id=0-1&t=bp4zyjLN0z7e7QTN-1)
+[**Ver Protótipo no Figma**](https://www.figma.com/design/7pZiyA4iuIkiiJeCXoKzMi/Redesign-RedBull?node-id=0-1&t=bp4zyjLN0z7e7QTN-1)
 
 </div>
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é um **redesign moderno e tecnológico** do site da Red Bull Powertrains, a divisão de engenharia de motores de Fórmula 1 da Red Bull Racing. O objetivo é transmitir a **inovação, velocidade e precisão** que definem a marca através de uma experiência web imersiva e visualmente impactante.
 
-### ✨ Destaques
+### Destaques
 
-- 🎯 **Interface futurista** com estética racing/tech
-- 🔄 **Visualização 3D interativa** do carro de F1 com rotação 360°
-- 📊 **HUD de telemetria** com dados técnicos animados
-- 🎨 **Tipografia tecnológica** (Orbitron, Inter, JetBrains Mono)
-- ⚡ **Animações fluidas** com Motion (Framer Motion)
-- 📱 **Design responsivo** para todos os dispositivos
+- **Interface futurista** com estética racing/tech
+- **Visualização 3D interativa** do carro de F1 com rotação 360°
+- **HUD de telemetria** com dados técnicos animados
+- **Tipografia tecnológica** (Orbitron, Inter, JetBrains Mono)
+- **Animações fluidas** com Motion (Framer Motion)
+- **Design responsivo** para todos os dispositivos
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 <table>
   <tr>
@@ -62,7 +64,7 @@ Este projeto é um **redesign moderno e tecnológico** do site da Red Bull Power
 
 ---
 
-## 📦 Principais Bibliotecas
+## Principais Bibliotecas
 
 | Biblioteca | Descrição |
 |------------|-----------|
@@ -75,7 +77,7 @@ Este projeto é um **redesign moderno e tecnológico** do site da Red Bull Power
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ```bash
 # Clone o repositório
@@ -95,7 +97,7 @@ O projeto estará disponível em `http://localhost:3000`
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -111,7 +113,7 @@ src/
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Cores
 - **Vermelho Red Bull:** `#c8102e`
@@ -125,21 +127,16 @@ src/
 
 ---
 
-## 🔗 Links
+## Links
 
-- [🎨 Protótipo Figma](https://www.figma.com/design/7pZiyA4iuIkiiJeCXoKzMi/Redesign-RedBull?node-id=0-1&t=bp4zyjLN0z7e7QTN-1)
-- [🏎️ Red Bull Powertrains Oficial](https://www.redbullpowertrains.com)
-- [🏁 Red Bull Racing](https://www.redbullracing.com)
+- [Protótipo Figma](https://www.figma.com/design/7pZiyA4iuIkiiJeCXoKzMi/Redesign-RedBull?node-id=0-1&t=bp4zyjLN0z7e7QTN-1)
+- [Red Bull Powertrains Oficial](https://www.redbullpowertrains.com)
+- [Red Bull Racing](https://www.redbullracing.com)
 
 ---
 
 <div align="center">
 
-### Desenvolvido com ❤️ e ☕
-
 **Red Bull Powertrains Redesign** © 2025
-
-<img src="https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/Powered%20by-Vite-646CFF?style=flat-square&logo=vite" />
 
 </div>
