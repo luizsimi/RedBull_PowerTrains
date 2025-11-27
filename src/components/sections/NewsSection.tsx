@@ -19,7 +19,7 @@ const newsItems = [
     title: 'Primeira POWER UNIT de 2026 Ativada no Dinamômetro',
     excerpt:
       'Red Bull Powertrains alcança marco importante com a primeira execução bem-sucedida da POWER UNIT híbrida V6 especificação 2026 no dinamômetro nas instalações de Milton Keynes.',
-    image: 'https://images.unsplash.com/photo-1627704671340-0969d7dbac25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbmdpbmVlcmluZyUyMHRlc3RpbmclMjBkeW5vJTIwZXF1aXBtZW50fGVufDF8fHx8MTc2MzM4ODc5NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: 'src/assets/iamge4.png',
     featured: false,
   },
   {
@@ -28,7 +28,7 @@ const newsItems = [
     title: 'Expansão das Instalações de Ponta Concluída',
     excerpt:
       'A instalação expandida de 50.000 m² agora inclui células de teste avançadas, áreas de fabricação e espaços dedicados para desenvolvimento de combustíveis sustentáveis.',
-    image: 'https://images.unsplash.com/photo-1713894055910-1a8bdffc41ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBmYWN0b3J5JTIwZmFjaWxpdHklMjBidWlsZGluZ3xlbnwxfHx8fDE3NjMzODg3OTV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: 'src/assets/image1.png',
     featured: false,
   },
   {
@@ -37,7 +37,7 @@ const newsItems = [
     title: 'Foco em Combustíveis 100% Sustentáveis para 2026',
     excerpt:
       'Equipes de engenharia trabalham intensivamente na otimização da nova POWER UNIT para combustíveis 100% sustentáveis mantendo as metas de performance.',
-    image: 'https://images.unsplash.com/photo-1609872209699-3e55dc7d90b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmb3JtdWxhJTIwMSUyMGVuZ2luZSUyMGZhY3RvcnklMjB0ZWNobm9sb2d5fGVufDF8fHx8MTc2MzM4ODc5NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: 'src/assets/image3.png',
     featured: false,
   },
   {
@@ -46,7 +46,7 @@ const newsItems = [
     title: 'Potência Elétrica Aprimorada: Desenvolvimento MGU-K',
     excerpt:
       'Progresso significativo no Motor Gerador Unidade - Cinético, que fornecerá três vezes mais potência elétrica do que as regulamentações atuais permitem.',
-    image: 'https://images.unsplash.com/photo-1739973276729-c1366d0a8544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmb3JtdWxhJTIwMSUyMHBvd2VyJTIwdW5pdCUyMGh5YnJpZHxlbnwxfHx8fDE3NjMzODg3OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: 'src/assets/image2.png',
     featured: false,
   },
 ];
